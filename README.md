@@ -1,6 +1,6 @@
 # [내배캠] 미니프로젝트 4조_코린이들
 <br/><br/>
-
+## [배포url](https://introduce-eta.vercel.app/)
 ## 📖 목표
 - HTML, CSS, JavaScript를 활용하여 팀 소개 페이지 만들기
 - Firebase을 활용한 Data 관리
@@ -41,6 +41,7 @@ https://hbeom00.github.io/movie_11/index.html
 
     - 팀 전체 소개 담당(Slider 기능 구현)
     - 최상단으로 이동 하는 버튼 구현
+    - 메인배너 및 article 이미지 요소 서치
 
 </details>
 <details>
